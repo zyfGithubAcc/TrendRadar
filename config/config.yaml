@@ -99,8 +99,8 @@ platforms:
   #  name: "靠谱新闻"
 
   # === 财经投资类 ===
-  - id: "wallstreetcn-hot"
-    name: "华尔街见闻 最热"
+  #- id: "wallstreetcn-hot"
+  #  name: "华尔街见闻 最热"
   #- id: "wallstreetcn-quick"
   #  name: "华尔街见闻 快讯"
   - id: "wallstreetcn-news"
@@ -143,8 +143,8 @@ platforms:
   #  name: "Solidot"
   #- id: "v2ex"
   #  name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
+  #- id: "nowcoder"
+  #  name: "牛客网"
   #- id: "pcbeta"
   #  name: "远景论坛"
   #- id: "sspai"
